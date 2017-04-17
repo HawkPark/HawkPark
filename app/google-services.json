@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029134724409",
+    "firebase_url": "https://hawkpark02-13b70.firebaseio.com",
+    "project_id": "hawkpark02-13b70",
+    "storage_bucket": "hawkpark02-13b70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029134724409:android:caf96a3fd9ad5aed",
+        "android_client_info": {
+          "package_name": "com.example.android.hawkpark02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029134724409-2joh5qnhufju6mdugl02lhft957jp10p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.hawkpark02",
+            "certificate_hash": "b86eae3fad1b39133187797e6d847ca191d5a880"
+          }
+        },
+        {
+          "client_id": "1029134724409-mrfal54c2fj6hh5rbr10sb8v3dp7cfve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_CGu-Fz5RhvxVJeVRCvQR2JwbmN0O3k0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029134724409-mrfal54c2fj6hh5rbr10sb8v3dp7cfve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
