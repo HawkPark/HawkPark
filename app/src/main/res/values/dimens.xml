@@ -2,4 +2,5 @@
 <resources>
     <dimen name="logo_bar_ht_login">120dp</dimen>
     <dimen name="logo_bar_line_ht">10dp</dimen>
+    <dimen name="ha_padding">15dp</dimen>
 </resources>

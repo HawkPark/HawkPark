@@ -46,6 +46,36 @@
         android:layout_height="10dp"
         android:background="@color/textBlack"
         android:layout_below="@id/hawk_bar_default"/>
+    <LinearLayout
+        android:id="@+id/linear_layout_ha"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@id/border_black"
+        android:orientation="horizontal">
+        <ScrollView
+            android:id="@+id/sv_lot_bttn_ha"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:padding="@dimen/ha_padding"
+            android:layout_gravity="start"            >
+
+        </ScrollView>
+        <RadioGroup
+            android:id="@+id/radio_pref_ha"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+        </RadioGroup>
+
+
+
+    </LinearLayout>
+
+
 
 
 
